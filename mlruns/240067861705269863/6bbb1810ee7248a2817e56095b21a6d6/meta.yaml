@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1.1%20Masters/Notes/1st%20Semester/EAS%20503%20-%20Programming%20DB/Final%20Project/Dataset/share/mlruns/240067861705269863/6bbb1810ee7248a2817e56095b21a6d6/artifacts
+end_time: 1734758644876
+entry_point_name: ''
+experiment_id: '240067861705269863'
+lifecycle_stage: active
+run_id: 6bbb1810ee7248a2817e56095b21a6d6
+run_name: Logistic Regression - Experiment 1 with Log Transform
+run_uuid: 6bbb1810ee7248a2817e56095b21a6d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734758630235
+status: 3
+tags: []
+user_id: Mankala_Shashank

@@ -1,0 +1,1 @@
+{'model__C': 1, 'model__penalty': 'l1', 'model__solver': 'liblinear'}

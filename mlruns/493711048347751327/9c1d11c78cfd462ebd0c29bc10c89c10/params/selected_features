@@ -1,0 +1,1 @@
+['num__age', 'num__hypertension', 'num__heart_disease', 'num__bmi', 'num__HbA1c_level', 'num__blood_glucose_level', 'cat__gender_encoded_0', 'cat__smoking_encoded_0', 'cat__smoking_encoded_1', 'cat__smoking_encoded_2', 'cat__smoking_encoded_3']

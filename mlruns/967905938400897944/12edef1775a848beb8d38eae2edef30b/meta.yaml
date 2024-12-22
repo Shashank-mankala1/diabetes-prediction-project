@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1.1%20Masters/Notes/1st%20Semester/EAS%20503%20-%20Programming%20DB/Final%20Project/Dataset/share/mlruns/967905938400897944/12edef1775a848beb8d38eae2edef30b/artifacts
+end_time: 1734758688449
+entry_point_name: ''
+experiment_id: '967905938400897944'
+lifecycle_stage: active
+run_id: 12edef1775a848beb8d38eae2edef30b
+run_name: RidgeClassifier
+run_uuid: 12edef1775a848beb8d38eae2edef30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734758684792
+status: 3
+tags: []
+user_id: Mankala_Shashank
